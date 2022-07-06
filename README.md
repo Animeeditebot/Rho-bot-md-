@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://telegra.ph/file/52b4c3c1c631254af23b8.jpg" alt="RW BOT" width="500"/>
+<img src="https://telegra.ph/file/52b4c3c1c631254af23b8.jpg" alt="Rhobot md" width="500"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="RW BOT MULTI DEVICE" src="https://img.shields.io/badge/RW BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RHOBOT MULTI DEVICE" src="https://img.shields.io/badge/RHOBOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
+<a href="[https://github.com/DikaArdnt]"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/Restaa/bot-md"><img title="Recode" src="https://img.shields.io/badge/Recode-Restaa-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
@@ -50,7 +50,7 @@ pkg install nodejs
 
 pkg install webp
 
-git clone https://github.com/Restaa/bot-md
+git clone [https://github.com/Animeeditebot/Rho-bot-md-]
 
 cd bot-md
 
